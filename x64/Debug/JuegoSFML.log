@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Teo\Desktop\Parcial2\JuegoSFML\main.cpp(36,44): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Teo\Desktop\Parcial2\JuegoSFML\main.cpp(36,34): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Teo\Desktop\Parcial2\JuegoSFML\main.cpp(44,56): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Teo\Desktop\Parcial2\JuegoSFML\main.cpp(44,46): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Teo\Desktop\Parcial2\JuegoSFML\main.cpp(49,52): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Teo\Desktop\Parcial2\JuegoSFML\main.cpp(49,42): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Teo\Desktop\Parcial2\JuegoSFML\main.cpp(60,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Teo\Desktop\Parcial2\JuegoSFML\main.cpp(60,44): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Teo\Desktop\Parcial2\JuegoSFML\main.cpp(82,48): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Teo\Desktop\Parcial2\JuegoSFML\main.cpp(86,38): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  JuegoSFML.vcxproj -> C:\Users\Teo\Desktop\Parcial2\x64\Debug\JuegoSFML.exe

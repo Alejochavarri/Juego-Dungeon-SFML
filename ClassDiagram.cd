@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bloque" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAAAEAAAAEAIAgAAAAAAAAAAAAAAAEQAAAAA=</HashCode>
+      <FileName>Bloque.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Colisionable" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Colisionable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Door" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACCAAAAAAAAAAEAIAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Door.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemigo" Collapsed="true">
+    <Position X="14.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAAAAgAAAEAIQAAEAAAACAQAQAEAAAQABAAA=</HashCode>
+      <FileName>Enemigo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fondo" Collapsed="true">
+    <Position X="5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQACAAAAAAAAAAAEAIAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Fondo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgAAABAAACAAAAAAIAQAAQAAAAEAAAAAAAAEAAAAA=</HashCode>
+      <FileName>MainMenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Melee" Collapsed="true">
+    <Position X="13.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Melee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Moneda" Collapsed="true">
+    <Position X="8.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQACAAAIAABAAAAEAIAAAAAAAAEAAAAAABAEQAAAAA=</HashCode>
+      <FileName>Moneda.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Personaje" Collapsed="true">
+    <Position X="13.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACBAAAAAAAAAAGAIQAAAAEAACAQAQAEEAAQEDAAA=</HashCode>
+      <FileName>Personaje.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Piso" Collapsed="true">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARACAAAAAAAAAAAEAJAAAAAAAAAAAAAAAAAEQAAAAA=</HashCode>
+      <FileName>Piso.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyectil" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAAABgAAAEAIBAAAgACAEAQAAAABAEQAJAAA=</HashCode>
+      <FileName>Proyectil.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ranged" Collapsed="true">
+    <Position X="15.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Ranged.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
